@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "batman",
+      "description": "nagoyn jó",
+      "id": 1
+    },
+    {
+      "title": "batman",
+      "description": "nagoyn jó",
+      "id": 2
+    },
+    {
+      "title": "React Router is cool",
+      "description": "The title says it all ye",
+      "id": 4
+    },
+    {
+      "title": "Redux is hard at first",
+      "description": "but it is very useful",
+      "id": 5
+    },
+    {
+      "title": "delete me",
+      "description": "pls",
+      "userId": "102183228557279384372",
+      "id": 6
+    }
+  ]
+}
